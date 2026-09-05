@@ -53,6 +53,8 @@ Plataforma web diseñada para digitalizar y automatizar el proceso de contrataci
 <img width="1151" height="584" alt="image" src="https://github.com/user-attachments/assets/faf95d81-fae4-40bf-b9d2-b08489fc7a06" />
 
 ## Gestión de postulantes - Portal de recursos humanos
+<img width="1280" height="720" alt="ezgif-6d8ab9a5583e6b59" src="https://github.com/user-attachments/assets/7ae186ef-e75e-430e-9028-bc8f65a5625a" />
+
 
 ## Gestión de faenas - Portal de recursos humanos
 <img width="1280" height="720" alt="vistaadmin4verfaenas" src="https://github.com/user-attachments/assets/1edcb218-1220-4c7a-bf62-35899fd53b25" />
