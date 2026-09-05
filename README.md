@@ -23,10 +23,14 @@ Plataforma web diseñada para digitalizar y automatizar el proceso de contrataci
 
 # Stack Tecnológico
 
--Backend: Laravel 13.3, PHP 8.3, PostgreSQL, Laravel Queue.
+- Backend: Laravel 13.3, PHP 8.3, PostgreSQL, Laravel Queue.
 
--Frontend: React 19, TypeScript 5.7, Inertia.js 2, Tailwind CSS 4.
+- Frontend: React 19, TypeScript 5.7, Inertia.js 2, Tailwind CSS 4.
 
--Microservicio IA: Python 3.11, FastAPI, Tesseract OCR, EasyOCR, Scikit-learn, pdfplumber.
+- Microservicio IA: Python 3.11, FastAPI, Tesseract OCR, EasyOCR, Scikit-learn, pdfplumber.
 
--Infraestructura: Docker, Nginx, Redis.
+- Infraestructura: Docker, Nginx, Redis.
+
+<img width="1280" height="720" alt="ezgif-6d87db77bb49c13d" src="https://github.com/user-attachments/assets/5cc441d7-5bc9-484c-8ce8-592260456dd1" />
+
+
